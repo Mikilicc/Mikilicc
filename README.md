@@ -1,7 +1,9 @@
 - Mikilic
-- Linux/Unix skills
+- Linux/Unix knowledge 
 - Learning TS and Next.js
 - HTML and CSS
+- Self-taught
+- 👀 Soon bigger projects
 
   
 <!---
