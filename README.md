@@ -1,5 +1,7 @@
 - Mikilic
-- Foxy Cloud hosting [Website](https://www.foxy-cloud.com/) [Discord](https://discord.gg/XgW2WUCghR)
+- Linux/Unix skills
+- Learning TS and Next.js
+- HTML and CSS
 
   
 <!---
